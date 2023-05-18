@@ -10,10 +10,13 @@
 ## The explanation to my files
 
 * First, the final.ipynb is the original models I run, where I missused the data, but it gives the idea I used. 
+
 <span style="color: green"> To save your time, you can skip this file.</span>
 
 * Second, the fina_new.ipynb is the models and I used the right data, however, the LSTM part I delelte some code, so it cannot run fluently.
+
 <span style="color: green"> To save your time, you can skip that part.</span>
 
 * Third, the LSTM(give-up version).ipynb is the file I run LSTM code. It is good, the data I import is just the data I merge from R, that I cbind the inflation rate we get by taking log() function to our response variables and the X.
+
 <span style="color: green"> To save your time, you can change the code to get the data by load data from the URL and merge them by yourself.</span>
