@@ -9,11 +9,11 @@
 
 ## The explanation to my files
 
-* First, the final.ipynb is the original models I run, where I missused the data, but it gives the idea I used. 
+* First, the ARIMAX_and_tsCV_models.ipynb is the original models I run, where I missused the data, but it gives the idea I used. 
 
   <span style="color: green"> To save your time, you can skip this file.</span>
 
-* Second, the fina_new.ipynb is the models and I used the right data, however, the LSTM part I delelte some code, so it cannot run fluently.
+* Second, the REVISED_arimax_and_tscv_models.ipynb is the models and I used the right data, however, the LSTM part I delelte some code, so it cannot run fluently.
 
   <span style="color: green"> To save your time, you can skip that part.</span>
 
