@@ -1,5 +1,5 @@
 # data_science_project
-## Our final model is in 'final_model.ipynb'. It is a simple code to give the final 30 cpi and 30 ppi after easily replacing the fake X. The detailed analysis is in following files.
+## Our final model (fake X) is in 'final_model.ipynb', and out final real outcome (real X) is in 'final_outcome,ipynb'. They are used the same model.
 # Files introduction
 ## 1) report_factor.ipynb
 * We mainly tried the factor model here, using time series methods to test the model. The final model OOS-R2 of CPI is about 0.4, and that of PPI is 0.95.
