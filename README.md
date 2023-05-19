@@ -1,6 +1,6 @@
 # data_science_project
 ## Our final model (fake X) is in 'final_model.ipynb', and our final real outcome (real X) is in 'final_outcome,ipynb'. They are used the same model.
-### Using tsCV function we predict the 30 periods future outcome. However, the prediction is showing the predicted error(which is the difference between real values and predicted values. Therefore, when we calculate r2, we do not need to substract the predicted values from the real values.
+### Using tsCV function we predict the 30 periods future outcome. However, the prediction is showing the predicted error(which is the difference between real values and predicted values). That is we predict future values by giving the 30 period errors, not the y-hat itself. Therefore, when we calculate r2, we do not need to substract the predicted values from the real values.
 
 # Files introduction
 ## 1) report_factor.ipynb
