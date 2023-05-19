@@ -1,5 +1,5 @@
 # data_science_project
-## Our final model (fake X) is in 'final_model.ipynb', and out final real outcome (real X) is in 'final_outcome,ipynb'. They are used the same model.
+## Our final model (fake X) is in 'final_model.ipynb', and ouR final real outcome (real X) is in 'final_outcome,ipynb'. They are used the same model.
 # Files introduction
 ## 1) report_factor.ipynb
 * We mainly tried the factor model here, using time series methods to test the model. The final model OOS-R2 of CPI is about 0.4, and that of PPI is 0.95.
